@@ -57,8 +57,3 @@ An interactive pathfinding visualizer built using **JavaScript**, **HTML**, and 
 
 ---
 
-## 📦 Getting Started
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/pathfinding-visualizer.git
