@@ -3,7 +3,6 @@
 An interactive pathfinding visualizer built using **JavaScript**, **HTML**, and **CSS**, showcasing the real-time working of classic pathfinding algorithms like **Dijkstra’s**, **A\***, **BFS**, and **DFS**.
 
 <p align="center">
-  <img src="Screenshots/Screenshot 2025-07-03 214621.png" width="1000" />
   <img src="Screenshots/Screenshot 2025-07-04 002053.png" width="1000" />
 </p><!-- Replace with your own demo GIF or screenshot -->
 
@@ -24,7 +23,9 @@ An interactive pathfinding visualizer built using **JavaScript**, **HTML**, and 
 ---
 
 ## 📸 Screenshots
-
+<p align="center">
+  <img src="Screenshots/Screenshot 2025-07-03 214621.png" width="1000" />
+</p><!-- Replace with your own demo GIF or screenshot -->
 
 ---
 
