@@ -25,6 +25,8 @@ An interactive pathfinding visualizer built using **JavaScript**, **HTML**, and 
 ## 📸 Screenshots
 <p align="center">
   <img src="Screenshots/Screenshot 2025-07-03 214621.png" width="1000" />
+</br>
+  <img src="Screenshots/Screenshot 2025-07-03 214633.png" width="1000" />
 </p><!-- Replace with your own demo GIF or screenshot -->
 
 ---
